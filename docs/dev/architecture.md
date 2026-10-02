@@ -1,0 +1,3 @@
+# Architecture
+
+Components of test0.3.0 and how they fit together. Written by the first ticket, once the stack is chosen; decisions are in [`docs/adr/`](../adr/0001-record-architecture-decisions.md).
